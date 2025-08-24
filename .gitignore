@@ -10,5 +10,5 @@ out/
 # Docs
 docs/
 
-# Dotenv file
-.env
+# Dotenv file: careful if working with real private keys!
+#.env
